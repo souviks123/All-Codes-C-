@@ -1,0 +1,15 @@
+C:\Users\mandals\Desktop\C#\Abstract_class\bin\Debug\net6.0\Abstract_class.exe
+C:\Users\mandals\Desktop\C#\Abstract_class\bin\Debug\net6.0\Abstract_class.deps.json
+C:\Users\mandals\Desktop\C#\Abstract_class\bin\Debug\net6.0\Abstract_class.runtimeconfig.json
+C:\Users\mandals\Desktop\C#\Abstract_class\bin\Debug\net6.0\Abstract_class.dll
+C:\Users\mandals\Desktop\C#\Abstract_class\bin\Debug\net6.0\Abstract_class.pdb
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\Abstract_class.csproj.AssemblyReference.cache
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\Abstract_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\Abstract_class.AssemblyInfoInputs.cache
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\Abstract_class.AssemblyInfo.cs
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\Abstract_class.csproj.CoreCompileInputs.cache
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\Abstract_class.dll
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\refint\Abstract_class.dll
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\Abstract_class.pdb
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\Abstract_class.genruntimeconfig.cache
+C:\Users\mandals\Desktop\C#\Abstract_class\obj\Debug\net6.0\ref\Abstract_class.dll
