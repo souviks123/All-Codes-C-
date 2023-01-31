@@ -1,0 +1,15 @@
+C:\Users\mandals\Desktop\C#\Jagged Array\bin\Debug\net6.0\Jagged Array.exe
+C:\Users\mandals\Desktop\C#\Jagged Array\bin\Debug\net6.0\Jagged Array.deps.json
+C:\Users\mandals\Desktop\C#\Jagged Array\bin\Debug\net6.0\Jagged Array.runtimeconfig.json
+C:\Users\mandals\Desktop\C#\Jagged Array\bin\Debug\net6.0\Jagged Array.dll
+C:\Users\mandals\Desktop\C#\Jagged Array\bin\Debug\net6.0\Jagged Array.pdb
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\Jagged Array.csproj.AssemblyReference.cache
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\Jagged Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\Jagged Array.AssemblyInfoInputs.cache
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\Jagged Array.AssemblyInfo.cs
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\Jagged Array.csproj.CoreCompileInputs.cache
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\Jagged Array.dll
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\refint\Jagged Array.dll
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\Jagged Array.pdb
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\Jagged Array.genruntimeconfig.cache
+C:\Users\mandals\Desktop\C#\Jagged Array\obj\Debug\net6.0\ref\Jagged Array.dll
