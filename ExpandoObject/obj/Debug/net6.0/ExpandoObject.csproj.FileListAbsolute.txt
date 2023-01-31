@@ -1,0 +1,15 @@
+C:\Users\mandals\Desktop\C#\ExpandoObject\bin\Debug\net6.0\ExpandoObject.exe
+C:\Users\mandals\Desktop\C#\ExpandoObject\bin\Debug\net6.0\ExpandoObject.deps.json
+C:\Users\mandals\Desktop\C#\ExpandoObject\bin\Debug\net6.0\ExpandoObject.runtimeconfig.json
+C:\Users\mandals\Desktop\C#\ExpandoObject\bin\Debug\net6.0\ExpandoObject.dll
+C:\Users\mandals\Desktop\C#\ExpandoObject\bin\Debug\net6.0\ExpandoObject.pdb
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\ExpandoObject.csproj.AssemblyReference.cache
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\ExpandoObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\ExpandoObject.AssemblyInfoInputs.cache
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\ExpandoObject.AssemblyInfo.cs
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\ExpandoObject.csproj.CoreCompileInputs.cache
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\ExpandoObject.dll
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\refint\ExpandoObject.dll
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\ExpandoObject.pdb
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\ExpandoObject.genruntimeconfig.cache
+C:\Users\mandals\Desktop\C#\ExpandoObject\obj\Debug\net6.0\ref\ExpandoObject.dll
