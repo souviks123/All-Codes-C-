@@ -1,0 +1,15 @@
+C:\Users\mandals\Desktop\C#\Multicast Delegate\bin\Debug\net6.0\Multicast Delegate.exe
+C:\Users\mandals\Desktop\C#\Multicast Delegate\bin\Debug\net6.0\Multicast Delegate.deps.json
+C:\Users\mandals\Desktop\C#\Multicast Delegate\bin\Debug\net6.0\Multicast Delegate.runtimeconfig.json
+C:\Users\mandals\Desktop\C#\Multicast Delegate\bin\Debug\net6.0\Multicast Delegate.dll
+C:\Users\mandals\Desktop\C#\Multicast Delegate\bin\Debug\net6.0\Multicast Delegate.pdb
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\Multicast Delegate.csproj.AssemblyReference.cache
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\Multicast Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\Multicast Delegate.AssemblyInfoInputs.cache
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\Multicast Delegate.AssemblyInfo.cs
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\Multicast Delegate.csproj.CoreCompileInputs.cache
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\Multicast Delegate.dll
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\refint\Multicast Delegate.dll
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\Multicast Delegate.pdb
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\Multicast Delegate.genruntimeconfig.cache
+C:\Users\mandals\Desktop\C#\Multicast Delegate\obj\Debug\net6.0\ref\Multicast Delegate.dll
