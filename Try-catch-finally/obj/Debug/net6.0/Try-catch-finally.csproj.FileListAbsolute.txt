@@ -1,0 +1,15 @@
+C:\Users\mandals\Desktop\C#\Try-catch-finally\bin\Debug\net6.0\Try-catch-finally.exe
+C:\Users\mandals\Desktop\C#\Try-catch-finally\bin\Debug\net6.0\Try-catch-finally.deps.json
+C:\Users\mandals\Desktop\C#\Try-catch-finally\bin\Debug\net6.0\Try-catch-finally.runtimeconfig.json
+C:\Users\mandals\Desktop\C#\Try-catch-finally\bin\Debug\net6.0\Try-catch-finally.dll
+C:\Users\mandals\Desktop\C#\Try-catch-finally\bin\Debug\net6.0\Try-catch-finally.pdb
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\Try-catch-finally.csproj.AssemblyReference.cache
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\Try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\Try-catch-finally.AssemblyInfoInputs.cache
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\Try-catch-finally.AssemblyInfo.cs
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\Try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\Try-catch-finally.dll
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\refint\Try-catch-finally.dll
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\Try-catch-finally.pdb
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\Try-catch-finally.genruntimeconfig.cache
+C:\Users\mandals\Desktop\C#\Try-catch-finally\obj\Debug\net6.0\ref\Try-catch-finally.dll
