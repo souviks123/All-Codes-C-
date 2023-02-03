@@ -1,0 +1,15 @@
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\Event Handle.csproj.AssemblyReference.cache
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\Event Handle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\Event Handle.AssemblyInfoInputs.cache
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\Event Handle.AssemblyInfo.cs
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\Event Handle.csproj.CoreCompileInputs.cache
+C:\Users\mandals\Desktop\C#\Event Handle\bin\Debug\net6.0\Event Handle.exe
+C:\Users\mandals\Desktop\C#\Event Handle\bin\Debug\net6.0\Event Handle.deps.json
+C:\Users\mandals\Desktop\C#\Event Handle\bin\Debug\net6.0\Event Handle.runtimeconfig.json
+C:\Users\mandals\Desktop\C#\Event Handle\bin\Debug\net6.0\Event Handle.dll
+C:\Users\mandals\Desktop\C#\Event Handle\bin\Debug\net6.0\Event Handle.pdb
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\Event Handle.dll
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\refint\Event Handle.dll
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\Event Handle.pdb
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\Event Handle.genruntimeconfig.cache
+C:\Users\mandals\Desktop\C#\Event Handle\obj\Debug\net6.0\ref\Event Handle.dll
