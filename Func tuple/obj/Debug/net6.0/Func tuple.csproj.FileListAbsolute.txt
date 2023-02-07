@@ -1,0 +1,15 @@
+C:\Users\mandals\Desktop\C#\Func tuple\bin\Debug\net6.0\Func tuple.exe
+C:\Users\mandals\Desktop\C#\Func tuple\bin\Debug\net6.0\Func tuple.deps.json
+C:\Users\mandals\Desktop\C#\Func tuple\bin\Debug\net6.0\Func tuple.runtimeconfig.json
+C:\Users\mandals\Desktop\C#\Func tuple\bin\Debug\net6.0\Func tuple.dll
+C:\Users\mandals\Desktop\C#\Func tuple\bin\Debug\net6.0\Func tuple.pdb
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\Func tuple.csproj.AssemblyReference.cache
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\Func tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\Func tuple.AssemblyInfoInputs.cache
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\Func tuple.AssemblyInfo.cs
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\Func tuple.csproj.CoreCompileInputs.cache
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\Func tuple.dll
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\refint\Func tuple.dll
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\Func tuple.pdb
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\Func tuple.genruntimeconfig.cache
+C:\Users\mandals\Desktop\C#\Func tuple\obj\Debug\net6.0\ref\Func tuple.dll
